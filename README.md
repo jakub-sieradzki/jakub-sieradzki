@@ -9,8 +9,8 @@ I am a software developer and technology enthusiast with a passion for building 
 - 💡 **Tech Stack:** Java (Android & Spigot), C# (WPF & UWP), JavaScript/React, Vue 3, Tailwind CSS, Firebase, WordPress, HTML/CSS, and Python.
 
 ## 🚀 Featured Work & Projects
-- **[ZSE Kraków Website](https://zse.krakow.pl):** Co-creator of the official webpage for Zespół Szkół Energetycznych in Kraków. Built utilizing a modern stack including JavaScript, React, Tailwind CSS, and WordPress.
-- **Repeats:** A spaced repetition active learning app natively built for Android and Windows 10 UWP.
+- **[ZSE Kraków Website](https://zse.krakow.pl):** Co-creator of the official webpage for Zespół Szkół Energetycznych in Kraków. Built utilizing a modern stack including JavaScript, React, Tailwind CSS, and WordPress (as a backend).
+- **Repeats:** A learning app natively built for Android and Windows 10 UWP.
 - **Debloat Windows 10:** A clean C# WPF utility that safely removes and restores pre-installed Windows 10 bloatware.
 - **New Network:** A modern, feature-rich social media web platform powered by Vue 3 and Firebase.
 - **Socket Serwis:** A responsive, lightweight frontend website built for an IT service and repair business using HTML, CSS, and Vanilla JavaScript.
